@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tobecollina-sketch.github.io/resources-36x7qh/sitemap.xml
